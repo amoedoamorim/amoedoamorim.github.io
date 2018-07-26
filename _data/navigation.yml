@@ -2,13 +2,13 @@ pages:
   - title: Featured pages
     children:
       - title: "About"
-        url: /about/
+        url: /about
       - title: "Annotation"
-        url: /annotation/
+        url: /annotation
       - title: "Policies"
-        url: /policies/
+        url: /policies
       - title: "Research"
-        url: /research/
+        url: /research
 
   - title: More content
     children:
@@ -18,4 +18,4 @@ pages:
   - title: Blog posts
     children:
       - title: "Featured post"
-        url: /2018/07/21/sample-blogpost/
+        url: /2018/07/21/sample-blogpost
