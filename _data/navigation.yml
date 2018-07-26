@@ -10,10 +10,15 @@ pages:
       - title: "Research"
         url: /research
 
+  - title: Research
+    children:
+      - title: Working Groups
+      - title: Indicators
+      - title: Grants
+
   - title: More content
     children:
       - title: "Subtitle"
-        text: "Some text here"
 
   - title: Blog posts
     children:
