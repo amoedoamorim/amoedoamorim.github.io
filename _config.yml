@@ -1,1 +1,31 @@
-remote-theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
+
+include: ["_pages"]
+
+title: "Credibility Coalition Community"
+email: "hello@credibilitycoalition.org"
+description: "Internal references for the Credibility Coalition Community."
+twitter_username: "@credcoalition"
+
+url: https://credcoalition.github.io
+baseurl: /
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      sidebar:
+        nav: "pages"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "pages"
