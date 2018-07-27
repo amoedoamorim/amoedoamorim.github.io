@@ -1,4 +1,5 @@
 ---
-title: "This is getting interesting"
+title: "Sample Blogpost"
+author: "John Doe"
 ---
-I can write blog posts!
+Lorem ipsum blog post contents.
